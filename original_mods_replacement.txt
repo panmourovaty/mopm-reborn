@@ -1,29 +1,30 @@
-AdditionalEnchantedMiner-1.12.2-12.3.0-universal.jar
-AdvancedRocketry-1.12.2-1.6.0-191-universal.jar
-ae2stuff-0.7.0.4-mc1.12.2.jar
+original name,result
+AdditionalEnchantedMiner-1.12.2-12.3.0-universal.jar,update
+AdvancedRocketry-1.12.2-1.6.0-191-universal.jar,Gregicality Rocketry
+ae2stuff-0.7.0.4-mc1.12.2.jar,AE2 Things
 AE2WTLib-1.12.2-1.0.34.jar
-appliedenergistics2-rv6-stable-7.jar
-APSRepowered-1.12.2-4r.jar
+appliedenergistics2-rv6-stable-7.jar, update
+APSRepowered-1.12.2-4r.jar, delete
 architecturecraft-1.12-3.98.jar
 Aroma1997Core-1.12.2-2.0.0.2.jar
-astralsorcery-1.12.2-1.10.20.jar
+astralsorcery-1.12.2-1.10.20.jar, Spectrum
 AutoRegLib-1.3-32.jar
 base-1.12.2-3.13.0.jar
-Baubles-1.12-1.5.2.jar
-bc-extra-pipes-1.12.2-1.jar
+Baubles-1.12-1.5.2.jar,delete
+bc-extra-pipes-1.12.2-1.jar, delete
 bdlib-1.14.3.12-mc1.12.2.jar
-BetterAdvancements-1.12.2-0.1.0.77.jar
-BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar
-BetterFoliage-MC1.12-2.3.1.jar
-BetterFps-1.4.8.jar
-BetterRecords-1.12.2-1.6.1.jar
-BiblioCraft[v2.4.5][MC1.12.2].jar
-BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar
-blockdrops-1.12.2-1.4.0.jar
-BloodMagic-1.12.2-2.4.3-105.jar
+BetterAdvancements-1.12.2-0.1.0.77.jar, update
+BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar,Construction Wand
+BetterFoliage-MC1.12-2.3.1.jar,Better Foliage Renewed
+BetterFps-1.4.8.jar,delete
+BetterRecords-1.12.2-1.6.1.jar, delete
+BiblioCraft[v2.4.5][MC1.12.2].jar, delete
+BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar, update
+blockdrops-1.12.2-1.4.0.jar, delete
+BloodMagic-1.12.2-2.4.3-105.jar, update
 Bookshelf-1.12.2-2.3.590.jar
-Born+In+A+Barn+V1.8-1.12-1.1.jar
-BrandonsCore-1.12.2-2.4.17.208-universal.jar
+Born+In+A+Barn+V1.8-1.12-1.1.jar, delete
+BrandonsCore-1.12.2-2.4.17.208-universal.jar, update
 buildcraft-all-7.99.24.4.jar
 careerbees-0.4.0.jar
 catwalks-1.12.2-4.0.44.jar
