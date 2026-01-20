@@ -1,21 +1,21 @@
 original name,result
 AdditionalEnchantedMiner-1.12.2-12.3.0-universal.jar,update
-AdvancedRocketry-1.12.2-1.6.0-191-universal.jar,Gregicality Rocketry
-ae2stuff-0.7.0.4-mc1.12.2.jar,AE2 Things
+AdvancedRocketry-1.12.2-1.6.0-191-universal.jar,delete
+ae2stuff-0.7.0.4-mc1.12.2.jar,delete
 AE2WTLib-1.12.2-1.0.34.jar
 appliedenergistics2-rv6-stable-7.jar, update
 APSRepowered-1.12.2-4r.jar, delete
 architecturecraft-1.12-3.98.jar
 Aroma1997Core-1.12.2-2.0.0.2.jar
-astralsorcery-1.12.2-1.10.20.jar, Spectrum
+astralsorcery-1.12.2-1.10.20.jar, delete
 AutoRegLib-1.3-32.jar
 base-1.12.2-3.13.0.jar
 Baubles-1.12-1.5.2.jar,delete
 bc-extra-pipes-1.12.2-1.jar, delete
 bdlib-1.14.3.12-mc1.12.2.jar
 BetterAdvancements-1.12.2-0.1.0.77.jar, update
-BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar,Construction Wand
-BetterFoliage-MC1.12-2.3.1.jar,Better Foliage Renewed
+BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar,delete
+BetterFoliage-MC1.12-2.3.1.jar,delete
 BetterFps-1.4.8.jar,delete
 BetterRecords-1.12.2-1.6.1.jar, delete
 BiblioCraft[v2.4.5][MC1.12.2].jar, delete
@@ -37,20 +37,20 @@ CoFHWorld-1.12.2-1.3.1.7-universal.jar,update
 CommonCapabilities-1.12.2-2.4.5.jar,update
 CompactSolars-1.12.2-5.0.18.341-universal.jar,Solar Flux Reborn
 CookingForBlockheads_1.12.2-6.4.71.jar,update
-coolgadgets-1.12.2-1.4.3.jar
+coolgadgets-1.12.2-1.4.3.jar,Building Gadgets
 CustomLoadingScreen-1.12.2-1.4.0.3.jar
 CustomMainMenu-MC1.12.2-2.0.8.jar
 CustomMobSpawner-3.11.4.jar
 CyclopsCore-1.12.2-1.6.0.jar
-Draconic-Evolution-1.12.2-2.3.24.349-universal.jar
-DrZharks MoCreatures Mod-12.0.5.jar
+Draconic-Evolution-1.12.2-2.3.24.349-universal.jar,update
+DrZharks MoCreatures Mod-12.0.5.jar,delete
 DummyCoreUnofficial-2.4.112.5.jar
 DynamicSurroundings-1.12.2-3.6.0.2.jar
-EMT-R_EMT10.11.jar
+EMT-R_EMT10.11.jar, update
 EnderCore-1.12.2-0.5.73.jar
-EnderIO-1.12.2-5.1.52.jar
-EnderStorage-1.12.2-2.4.6.137-universal.jar
-EndReborn+III+[0.3.1].jar
+EnderIO-1.12.2-5.1.52.jar, update
+EnderStorage-1.12.2-2.4.6.137-universal.jar,update
+EndReborn+III+[0.3.1].jar, update
 energyconverters_1.12.2-1.3.6.24.jar
 EnchantingPlus-1.12.2-5.0.176.jar
 environmentaltech-1.12.2-2.0.20.1.jar
@@ -81,21 +81,21 @@ Chunk+Pregenerator+V1.12-2.2.jar
 ICBM-classic-1.12.2-3.3.0b63.jar
 IGW-Mod-1.12.2-1.4.4-15-universal.jar
 iChunUtil-1.12.2-7.2.2.jar
-ImmersiveCables-1.12.2-1.3.2.jar
-ImmersiveEngineering-0.12-92.jar
-immersivepetroleum-1.12.2-1.1.9.jar
-ImmersiveRailroading-1.7.2_1.12.2.jar
-industrialcraft-2-2.8.188-ex112.jar
-industrialforegoing-1.12.2-1.12.13-237.jar
-IndustrialWires-1.7-36.jar
+ImmersiveCables-1.12.2-1.3.2.jar, delete
+ImmersiveEngineering-0.12-92.jar, delete
+immersivepetroleum-1.12.2-1.1.9.jar, delete
+ImmersiveRailroading-1.7.2_1.12.2.jar, delete
+industrialcraft-2-2.8.188-ex112.jar,delete
+industrialforegoing-1.12.2-1.12.13-237.jar,update
+IndustrialWires-1.7-36.jar,delete
 instantunify-1.12.2-1.1.2.jar
-IntegrationForegoing-1.12.2-1.9.jar
+IntegrationForegoing-1.12.2-1.9.jar,delete
 ironchest-1.12.2-7.0.72.847.jar
 irontanks-1.12.2-2.1.0-beta.18.jar
 itlt-1.12-1.0.0.jar
 IvToolkit-1.3.3-1.12.jar
 JAOPCA-1.12.2-2.2.8.103.jar
-jeibees-0.9.0.5-mc1.12.2.jar
+jeibees-0.9.0.5-mc1.12.2.jar,delete
 jei_1.12.2-4.15.0.291.jar
 journeymap-1.12.2-5.5.6.jar
 JurassiCraft-1.12.2-2.1.23.jar
@@ -107,7 +107,7 @@ librarianlib-1.12.2-4.20-release.jar
 LibVulpes-1.12.2-0.4.2-69-universal.jar
 llibrary-1.7.19-1.12.2.jar
 lostcities-1.12-2.0.21.jar
-MagicBees-1.12.2-3.1.10.jar
+MagicBees-1.12.2-3.1.10.jar,delete
 Mantle-1.12-1.3.3.55.jar
 mcjtylib-1.12-3.5.4.jar
 moartinkers-0.6.0.jar
@@ -131,13 +131,13 @@ OfflineSkins-1.12.2-v6.jar
 OpenBlocks-1.12.2-1.8.1.jar
 OpenComputers-MC1.12.2-1.7.5.192.jar
 OpenModsLib-1.12.2-0.12.2.jar
-OptiFine_1.12.2_HD_U_F5_MOD.jar
+OptiFine_1.12.2_HD_U_F5_MOD.jar, delete
 OreLib-1.12.2-3.6.0.1.jar
 pneumaticcraft-repressurized-1.12.2-0.11.7-375.jar
 Psi-r1.1-77.jar
 p455w0rdslib-1.12.2-2.3.161.jar
 Quark-r1.6-177.jar
-railcraft-12.0.0.jar
+railcraft-12.0.0.jar,delete
 randompatches-1.12.2-1.20.1.0.jar
 reauth-3.6.0.jar
 RebornCore-1.12.2-3.16.4.478-universal.jar
@@ -192,8 +192,36 @@ Wawla-1.12.2-2.5.273.jar
 WirelessCraftingTerminal-1.12.2-3.12.97.jar
 wizardry-0.10.8.jar
 WrapUp-1.12-1.1.3.jar
-YABBA-1.1.2.54.jar
+YABBA-1.1.2.54.jar, delete
 zerocore-1.12.2-0.1.2.8.jar
 [1.12]bspkrsCore-universal-7.6.0.1.jar
 [1.12]MoVillages-1.5.4.jar
 [1.12]TreeCapitator-client-1.43.0.jar,FallingTree
+#### NEW###,################################
+William Wythers' Overhauled Overworld
+Lithostitched
+Tectonic
+Create
+Create: The Factory Must Grow
+Create: Better Motors (Crafts & Additions Addon)
+Create Jetpack
+Create: Enchantment Industry
+Create: Steam 'n' Rails
+Create Crafts & Additions
+Create: Integrated Farming
+Create: Central Kitchen
+create-threaded-trains
+Tom's Simple Storage Mod
+Create Contraption Terminals
+Sophisticated Backpacks
+Sophisticated Storage
+Sophisticated Backpacks Create Integration
+Sophisticated Storage Create Integration
+sodium
+GregTech CEu Modern
+Alex's Mobs //my lag
+Gregicality Rocketry
+AE2 Things
+Spectrum
+Construction Wand
+Better Foliage Renewed
