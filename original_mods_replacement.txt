@@ -25,8 +25,8 @@ BloodMagic-1.12.2-2.4.3-105.jar, update
 Bookshelf-1.12.2-2.3.590.jar
 Born+In+A+Barn+V1.8-1.12-1.1.jar, delete
 BrandonsCore-1.12.2-2.4.17.208-universal.jar, update
-buildcraft-all-7.99.24.4.jar
-careerbees-0.4.0.jar,Productive Bees
+buildcraft-all-7.99.24.4.jar,delete
+careerbees-0.4.0.jar,delete
 catwalks-1.12.2-4.0.44.jar
 cfm-6.3.0-mc1.12.2.jar
 cgm-0.15.2-mc1.12.2.jar
@@ -35,9 +35,9 @@ CodeChickenLib-1.12.2-3.2.3.358-universal.jar,update
 CoFHCore-1.12.2-4.6.3.27-universal.jar,update
 CoFHWorld-1.12.2-1.3.1.7-universal.jar,update
 CommonCapabilities-1.12.2-2.4.5.jar,update
-CompactSolars-1.12.2-5.0.18.341-universal.jar,Solar Flux Reborn
+CompactSolars-1.12.2-5.0.18.341-universal.jar,delete
 CookingForBlockheads_1.12.2-6.4.71.jar,update
-coolgadgets-1.12.2-1.4.3.jar,Building Gadgets
+coolgadgets-1.12.2-1.4.3.jar,delete
 CustomLoadingScreen-1.12.2-1.4.0.3.jar
 CustomMainMenu-MC1.12.2-2.0.8.jar
 CustomMobSpawner-3.11.4.jar
@@ -59,17 +59,17 @@ Exchangers-1.12.2-2.8.jar
 ExtraCells-1.12.2-2.6.4.jar
 extrautils2-1.12-1.9.9.jar
 ExtremeReactors-1.12.2-0.4.5.67.jar
-FastFurnace-1.12.2-1.3.1.jar
-FastLeafDecay-v14.jar
-FastWorkbench-1.12.2-1.7.3.jar
+FastFurnace-1.12.2-1.3.1.jar,update
+FastLeafDecay-v14.jar,update
+FastWorkbench-1.12.2-1.7.3.jar,update
 FloodLights-1.12.2-1.4.1-17.jar
 foamfix-0.10.10-1.12.2.jar
-forestry_1.12.2-5.8.2.409.jar
+forestry_1.12.2-5.8.2.409.jar,delete
 Forgelin-1.8.4.jar
 FTBLib-5.4.4.5.jar
 GardenStuff-1.12-2.1.1.jar
-gendustryjei-1.0.2.jar
-gendustry-1.6.5.8-mc1.12.2.jar
+gendustryjei-1.0.2.jar,delete
+gendustry-1.6.5.8-mc1.12.2.jar,delete
 Guide-API-1.12-2.1.8-63.jar
 HammerCore-1.12.2-2.0.6.1.jar
 HammerMetals-1.12.2-15r.jar
@@ -89,7 +89,7 @@ industrialcraft-2-2.8.188-ex112.jar,delete
 industrialforegoing-1.12.2-1.12.13-237.jar,update
 IndustrialWires-1.7-36.jar,delete
 instantunify-1.12.2-1.1.2.jar
-IntegrationForegoing-1.12.2-1.9.jar,delete
+IntegrationForegoing-1.12.2-1.9.jar,update
 ironchest-1.12.2-7.0.72.847.jar
 irontanks-1.12.2-2.1.0-beta.18.jar
 itlt-1.12-1.0.0.jar
@@ -113,7 +113,7 @@ mcjtylib-1.12-3.5.4.jar
 moartinkers-0.6.0.jar
 ModernLights-1.0.3_1.12.jar
 ModularPowersuits-1.12.2-1.0.46.jar
-morebees-1.12.2-2.0.1.jar
+morebees-1.12.2-2.0.1.jar,delete
 morelibs-1.12.2-1.2.2.jar
 moreoverlays-1.15.1-mc1.12.2.jar
 moreplates-1.12.2-5.5.2.jar
@@ -152,35 +152,35 @@ rftools-1.12-7.72.jar
 Satako+1.12-2.26.jar
 SimpleLogic-Gates-0.5.6.1.jar
 SimplyJetpacks2-1.12.2-2.2.14.67.jar
-StevesCarts-1.12.2-2.4.32.137.jar
+StevesCarts-1.12.2-2.4.32.137.jar, delete
 stg-1.12.2-1.2.3.jar
 Surge-1.12.2-2.0.77.jar
 Sync-1.12.2-7.1.0.jar
 Tatw-1.12.2-1.0.1.2.b27.jar
-TConstruct-1.12.2-2.12.0.157.jar
+TConstruct-1.12.2-2.12.0.157.jar, delete
 tesla-core-lib-1.12.2-1.0.15.jar
 Tesla-1.12.2-1.0.63.jar
 TexFix+V-1.12-4.0.jar
-Thaumcraft-1.12.2-6.1.BETA26.jar
-ThaumicAdditions-1.12.2-19r.jar
-thaumicbases-3.3.352.6r.jar
-Thaumic+Calculations-1.12.2-0.4.jar
-ThaumicComputers-MC1.12.2-0.5.1.jar
-thaumicenergistics-2.2.3.jar
-ThaumicJEI-1.12.2-1.6.0-27.jar
-ThaumicTerminal-1.0.12.jar
-thaumictinkerer-1.12.2-5.0-353c71c.jar
+Thaumcraft-1.12.2-6.1.BETA26.jar, delete
+ThaumicAdditions-1.12.2-19r.jar, delete
+thaumicbases-3.3.352.6r.jar, delete
+Thaumic+Calculations-1.12.2-0.4.jar, delete
+ThaumicComputers-MC1.12.2-0.5.1.jar, delete
+thaumicenergistics-2.2.3.jar, delete
+ThaumicJEI-1.12.2-1.6.0-27.jar, delete
+ThaumicTerminal-1.0.12.jar, delete
+thaumictinkerer-1.12.2-5.0-353c71c.jar, delete
 ThermalCultivation-1.12.2-0.3.3.12-universal.jar
 ThermalDynamics-1.12.2-2.5.5.21-universal.jar
 ThermalExpansion-1.12.2-5.5.4.43-universal.jar
 ThermalFoundation-1.12.2-2.6.3.27-universal.jar
 ThermalInnovation-1.12.2-0.3.3.12-universal.jar
-TinkeredHegemony-0.2.1.jar
-tinker_io-1.12.2-rw2.7.1.jar
-Tinkers'+Addons-1.12.1-1.0.7.jar
-TinkersComplement-1.12.2-0.4.3.jar
-tinkersoc-0.6.jar
-TinkerToolLeveling-1.12.2-1.1.0.jar
+TinkeredHegemony-0.2.1.jar, delete
+tinker_io-1.12.2-rw2.7.1.jar, delete
+Tinkers'+Addons-1.12.1-1.0.7.jar, delete
+TinkersComplement-1.12.2-0.4.3.jar, delete
+tinkersoc-0.6.jar, delete
+TinkerToolLeveling-1.12.2-1.1.0.jar, delete
 TrackAPI-1.2.jar
 UniDict-1.12.2-2.9.3.jar
 unloader-1.2.0.jar
@@ -225,3 +225,14 @@ AE2 Things
 Spectrum
 Construction Wand
 Better Foliage Renewed
+Chipped //my lag
+Handcrafted //my lag
+Silent Gear
+EnderIO-SilentGear Compatibility
+Female Gender Mod
+Solar Flux Reborn
+Building Gadgets
+Forestry: Community Edition
+Gendustry: Community Edition
+https://github.com/CalenXwX/BuildCraft
+BuildCraft RF: ReFluxified
